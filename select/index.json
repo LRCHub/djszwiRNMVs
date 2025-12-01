@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "【初音ミク】冬の魔法",
+  "base_artist": "さかい蔵人",
+  "createdAt": "2025-12-01T01:17:36.228633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "冬の魔法",
+      "artist": "舟津真翔",
+      "has_synced": true,
+      "path": "select/01_冬の魔法_舟津真翔.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "冬の魔法",
+      "artist": "ベイビーレイズ",
+      "has_synced": false,
+      "path": "select/02_冬の魔法_ベイビーレイズ.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "【初音ミク】冬の魔法",
+      "artist": "さかい蔵人",
+      "has_synced": false,
+      "path": "select/pl_【初音ミク】冬の魔法_さかい蔵人.txt"
+    }
+  ]
+}
